@@ -1,4 +1,6 @@
 echo "Githubdaki kurulum adimlarina UYUNUZ!!"
+sudo su -
+apt-get install curl
 chmod +x install.sh
 wget https://pastebin.obir.ninja/ts3proxy
 mkdir /usr/share/ts3proxy/
