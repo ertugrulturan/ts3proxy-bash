@@ -6,3 +6,7 @@ $ chmod +x install.sh
  
 $ bash install.sh
 
+# ts3proxy-bash Run,
+
+$ /usr/share/ts3proxy/ts3proxy
+
