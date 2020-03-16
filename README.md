@@ -1,5 +1,7 @@
 # ts3proxy-bash Kurulumu,
 
+$ sudo su
+
 $ wget https://raw.githubusercontent.com/obirninja/ts3proxy-bash/master/install.sh
 
 $ chmod +x install.sh
